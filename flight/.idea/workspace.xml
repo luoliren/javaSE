@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d4ab8c2-5e4e-4e8f-89c9-dedeca647710" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IntelliJConfiguration">
+    <option name="PROPERTY_FILES">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="REMOVE_NBSP" value="true" />
+    <option name="CREATE_NEW_JSP" value="true" />
+    <option name="KEY_RESOLUTION_TYPE" value="Use all words in label" />
+    <option name="PROMPT_FOR_KEY_PREFIX" value="false" />
+    <option name="LABEL_PART_1" value="&lt;bean:message key=&quot;" />
+    <option name="LABEL_PART_2" value="&quot;/&gt;" />
+  </component>
+  <component name="ProjectId" id="1V9CYPJbdRp5ltMwaB567RsihoL" />
+  <component name="PropertiesComponent">
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/DAOTXT" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA\Testtt" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="haha" />
+      <recent name="AddApp" />
+      <recent name="Enter" />
+      <recent name="Swing" />
+      <recent name="AddOrUpdateFrame1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA\Testtt\src\DAOTXT" />
+      <recent name="E:\IDEA\Testtt" />
+      <recent name="E:\IDEA\Testtt\src" />
+      <recent name="E:\IDEA\Testtt\src\libs" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="System" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="BackImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swing.BackImage" />
+      <module name="Testtt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Test" />
+      <module name="Testtt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="haha.Test" />
+      <module name="Testtt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="haha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="haha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swing.haha" />
+      <module name="Testtt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swing.hh" />
+      <module name="Testtt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.test1" />
+      <module name="Testtt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.BackImage" />
+        <item itemvalue="Application.haha" />
+        <item itemvalue="Application.hh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d4ab8c2-5e4e-4e8f-89c9-dedeca647710" name="Default Changelist" comment="" />
+      <created>1576655970761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576655970761</updated>
+      <workItem from="1576655973272" duration="14845000" />
+      <workItem from="1577018923172" duration="5662000" />
+      <workItem from="1577261063567" duration="5818000" />
+      <workItem from="1577325416118" duration="4106000" />
+      <workItem from="1577331070115" duration="1448000" />
+      <workItem from="1577337812397" duration="10291000" />
+      <workItem from="1577355514390" duration="435000" />
+      <workItem from="1577427243964" duration="1530000" />
+      <workItem from="1577451082104" duration="170000" />
+      <workItem from="1577457568067" duration="5348000" />
+      <workItem from="1577498830583" duration="7141000" />
+      <workItem from="1577615404989" duration="1058000" />
+      <workItem from="1577702212043" duration="757000" />
+      <workItem from="1577716428230" duration="853000" />
+      <workItem from="1577721077663" duration="1530000" />
+      <workItem from="1577787729047" duration="1614000" />
+      <workItem from="1577792782465" duration="31000" />
+      <workItem from="1577804695961" duration="2354000" />
+      <workItem from="1577841916143" duration="2082000" />
+      <workItem from="1577844659944" duration="41000" />
+      <workItem from="1577947756065" duration="9273000" />
+      <workItem from="1577962563537" duration="11000" />
+      <workItem from="1577963938562" duration="213000" />
+      <workItem from="1577966560674" duration="63000" />
+      <workItem from="1577967816026" duration="6091000" />
+      <workItem from="1578011906876" duration="8782000" />
+      <workItem from="1578030596056" duration="546000" />
+      <workItem from="1578032518619" duration="4906000" />
+      <workItem from="1578104305814" duration="79000" />
+      <workItem from="1578104651839" duration="3626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
